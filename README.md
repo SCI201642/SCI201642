@@ -1,4 +1,4 @@
-## Hi there 👋
+## Compte créé par SCI201642 pour le cours SCI6201 de L'EBSI
 
 <!--
 **SCI201642/SCI201642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
